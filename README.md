@@ -2,6 +2,9 @@
 ## Overview
 Now that we've gotten a good idea of how to create our story, there is still some more work to be done to convince investors that a bike-sharing program in Des Moines is a solid business proposal. To solidify the proposal, one of the key stakeholders would like to see a bike trip analysis. In this analysis we show how the bike-sharing program is a potential benefit.
 
+The link to the dashboard can be found here:
+[Link to the Analysis](https://public.tableau.com/app/profile/jose2153/viz/TableauChallenge_16484352182390/Story2?publish=yes)
+
 ## Results
 - We have 2,344,224 records of the bike sharing program in New York, this is 1/4 of the population.
 - Male riders make up a majority of riders
